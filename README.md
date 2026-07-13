@@ -14,5 +14,5 @@ Hello! I am Abdulmajeed Mohammed Al-hadyani, an IT student at Qassim University.
 * Database Management & SQL
 
 ### To View The Website
-Click on the link below:
+Click on this link:
 https://abdulmajeed.free.je/?i=1
